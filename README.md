@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/md sufyan alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md sufyan alam" height="30" width="40" /></a>
 <a href="https://instagram.com/__sufyan.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sufyan.7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/md sufyan alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="md sufyan alam" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sufyanaao6zr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sufyanaao6zr" height="30" width="40" /></a>
 <a href="https://discord.gg/Sufyan9701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sufyan9701" height="30" width="40" /></a>
 </p>
 
